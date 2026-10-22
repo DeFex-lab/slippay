@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-239-fix-listener-guard-the-lease-heartbeat-against",
+    "fix/issue-254-fix-listener-await-the-lease-release-before",
+    "fix/issue-255-fix-listener-make-the-memo-comparison-explicit",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-239-fix-listener-guard-the-lease-heartbeat-against": "main",
+    "fix/issue-254-fix-listener-await-the-lease-release-before": "main",
+    "fix/issue-255-fix-listener-make-the-memo-comparison-explicit": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-239-fix-listener-guard-the-lease-heartbeat-against",
+    "fix/issue-254-fix-listener-await-the-lease-release-before",
+    "fix/issue-255-fix-listener-make-the-memo-comparison-explicit",
+    "origin"
+  ]
+}
